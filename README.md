@@ -45,15 +45,15 @@ The system provides the following **8 methods** to manage products:
 ## Code Structure
 The project consists of the following classes:<br>
 
-**Product.java**
+**Product.java** <br>
 Represents a product with attributes: name, type, place, and warranty.<br>
 Includes constructors, getters, setters, and a toString() method.<br>
 
-**ProductServices.java**
+**ProductServices.java** <br>
 Contains the logic for managing the list of products.<br>
 Implements all 8 methods for adding, retrieving, deleting, and filtering products.<br>
 
-**Main.java**
+**Main.java** <br>
 Demonstrates the usage of the ProductServices class.<br>
 Adds sample products and calls various methods to showcase functionality.<br>
 
@@ -64,8 +64,10 @@ Adds sample products and calls various methods to showcase functionality.<br>
    ```bash
    git clone https://github.com/your-username/product-management-system.git
 
-![Screenshot 2025-01-31 173140](https://github.com/user-attachments/assets/ac6e57a4-d501-4da8-80af-16b68b740154)
-![Screenshot 2025-01-31 173118](https://github.com/user-attachments/assets/9493c343-1eb6-49ca-a142-3bd4774ed521)
 ![Screenshot 2025-01-31 173208](https://github.com/user-attachments/assets/f9fc4a78-bd33-44f5-8944-c0ed494fb0a0)
+![Screenshot 2025-01-31 173118](https://github.com/user-attachments/assets/9493c343-1eb6-49ca-a142-3bd4774ed521)
+![Screenshot 2025-01-31 173140](https://github.com/user-attachments/assets/ac6e57a4-d501-4da8-80af-16b68b740154)
+
+
 
    
